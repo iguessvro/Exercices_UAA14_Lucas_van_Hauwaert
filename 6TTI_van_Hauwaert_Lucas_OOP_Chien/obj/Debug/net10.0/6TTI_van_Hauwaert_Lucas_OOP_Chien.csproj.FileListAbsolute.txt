@@ -1,0 +1,14 @@
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.GeneratedMSBuildEditorConfig.editorconfig
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.AssemblyInfoInputs.cache
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.AssemblyInfo.cs
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.csproj.CoreCompileInputs.cache
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\bin\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.exe
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\bin\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.deps.json
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\bin\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.runtimeconfig.json
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\bin\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.dll
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\bin\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.pdb
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.dll
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\refint\6TTI_van_Hauwaert_Lucas_OOP_Chien.dll
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.pdb
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\6TTI_van_Hauwaert_Lucas_OOP_Chien.genruntimeconfig.cache
+H:\Progra 6TTI\UAA14\OOP\6TTI_van_Hauwaert_Lucas_OOP_Chien\obj\Debug\net10.0\ref\6TTI_van_Hauwaert_Lucas_OOP_Chien.dll
